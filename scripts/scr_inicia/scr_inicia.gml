@@ -2,6 +2,7 @@
 
 //iniciando as variaveis globais do jogo
 
+
 //variavel do modo de jogadores do pong
 global.dois_jogadores = false;
 
